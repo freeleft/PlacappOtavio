@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".MainActivity">
+
+    <TextView   android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Clubes"
+                android:textSize="36sp"
+                android:gravity="center"
+                android:textStyle="bold|italic"/>
+
+    <TextView style="@style/Label" android:text="@string/Time_Casa"/>
+
+    <EditText style="@style/Input_Home" android:id="@+id/inputHome"/>
+
+    <TextView style="@style/Label" android:text="@string/TimeVisitante"/>
+
+    <EditText style="@style/Input_Visitante" android:id="@+id/inputVisitante"/>
+
+    <Button style="@style/Button" android:text="@string/PegouAr" android:id="@+id/btnPegouAr"/>
+</LinearLayout>

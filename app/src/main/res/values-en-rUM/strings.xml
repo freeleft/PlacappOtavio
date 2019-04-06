@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Clubes">Club</string>
+    <string name="PegouAr">Get Air</string>
+    <string name="Time_Casa">Home Club</string>
+    <string name="TimeVisitante">Visit Club</string>
+    <string name="Hint_Home">Ex. Celtic Boston</string>
+    <string name="Hint_Visitante">Ex. Chicago Bulls</string>
+    <string name="label_goal">Goal</string>
+</resources>

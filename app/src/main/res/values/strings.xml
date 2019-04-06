@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Placapp</string>
+    <string name="Clubes">Clubes</string>
+    <string name="Time_Casa">Time da Casa</string>
+    <string name="TimeVisitante">Time Visitante</string>
+    <string name="PegouAr">Pegou Ar</string>
+    <string name="Hint_Home">Ex. São Paulo</string>
+    <string name="Hint_Visitante">Ex. Palmeiras</string>
+    <string name="label_goal">Gol</string>
+</resources>
